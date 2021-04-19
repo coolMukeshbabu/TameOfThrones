@@ -1,0 +1,11 @@
+D:\Code\LearningTestProject\Tameofthrones\TameOfThrones\TameOfThrones\bin\Debug\netcoreapp2.1\TameOfThrones.deps.json
+D:\Code\LearningTestProject\Tameofthrones\TameOfThrones\TameOfThrones\bin\Debug\netcoreapp2.1\TameOfThrones.runtimeconfig.json
+D:\Code\LearningTestProject\Tameofthrones\TameOfThrones\TameOfThrones\bin\Debug\netcoreapp2.1\TameOfThrones.runtimeconfig.dev.json
+D:\Code\LearningTestProject\Tameofthrones\TameOfThrones\TameOfThrones\bin\Debug\netcoreapp2.1\TameOfThrones.dll
+D:\Code\LearningTestProject\Tameofthrones\TameOfThrones\TameOfThrones\bin\Debug\netcoreapp2.1\TameOfThrones.pdb
+D:\Code\LearningTestProject\Tameofthrones\TameOfThrones\TameOfThrones\obj\Debug\netcoreapp2.1\TameOfThrones.csprojAssemblyReference.cache
+D:\Code\LearningTestProject\Tameofthrones\TameOfThrones\TameOfThrones\obj\Debug\netcoreapp2.1\TameOfThrones.csproj.CoreCompileInputs.cache
+D:\Code\LearningTestProject\Tameofthrones\TameOfThrones\TameOfThrones\obj\Debug\netcoreapp2.1\TameOfThrones.AssemblyInfoInputs.cache
+D:\Code\LearningTestProject\Tameofthrones\TameOfThrones\TameOfThrones\obj\Debug\netcoreapp2.1\TameOfThrones.AssemblyInfo.cs
+D:\Code\LearningTestProject\Tameofthrones\TameOfThrones\TameOfThrones\obj\Debug\netcoreapp2.1\TameOfThrones.dll
+D:\Code\LearningTestProject\Tameofthrones\TameOfThrones\TameOfThrones\obj\Debug\netcoreapp2.1\TameOfThrones.pdb
